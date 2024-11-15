@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Peny835
+- 💀 15 y/o
+- 🐶 Love my dog: Diana
 - It's awesome 🙌
 
 <!---
