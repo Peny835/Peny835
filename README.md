@@ -5,10 +5,7 @@
 <p align="center">
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198347490263&show_in_game_bg=true&show_recent_game_bg=true" width= "45%">
 </p>
-
-
-
-<div>
-  ![snake gif](https://github.com/Peny835/Peny835/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img  src="https://github.com/Peny835/Peny835/blob/output/github-snake-dark.svg" width="150%">
 </div>
 
