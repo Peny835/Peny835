@@ -1,5 +1,8 @@
-# OkOk
-<!---
-Peny835/Peny835 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Peny825
+<p align="center">
+  <img https://discord.com/users/772831798106259497 src="https://lanyard.cnrad.dev/api/772831798106259497" width="45%">
+</p>
+<p align="center">
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198347490263&show_in_game_bg=true&show_recent_game_bg=true" width= "45%">
+</p>
+
