@@ -8,5 +8,7 @@
 
 
 
+<div>
+  ![snake gif](https://github.com/Peny835/Peny835/blob/output/github-snake-dark.svg)
+</div>
 
-![snake gif](https://github.com/Peny835/Peny835/blob/output/github-snake-dark.svg)
