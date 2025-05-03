@@ -7,11 +7,6 @@
     <img src="https://lanyard.cnrad.dev/api/772831798106259497" width="45%">
   </a>
 </p>
-<p align="center">
-  <a href="https://steamcommunity.com/id/SwingOrGetSwung/">
-    <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198347490263&show_in_game_bg=true&show_recent_game_bg=true" width="45%">
-  </a>
-</p>
 
 ## Languages
 
