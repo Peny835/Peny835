@@ -1,8 +1,5 @@
 <h1 align="center">Peny825</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-</p>
-<p align="center">
   <a href="https://discord.com/users/772831798106259497">
     <img src="https://lanyard.cnrad.dev/api/772831798106259497" width="45%">
   </a>
